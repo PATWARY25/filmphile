@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marvel Heroes Hub</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <h1>Marvel Heroes Hub</h1>
+    <nav>
+      <ul class="menu">
+        <li><a href="#heroes-index">The Hero's Index</a></li>
+        <li><a href="#marvel-media">Marvel Media</a></li>
+        <li><a href="#events-timelines">Events & Timelines</a></li>
+        <li><a href="#fan-zone">Fan Zone</a></li>
+        <li><a href="#news-features">News & Features</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Banner -->
+  <section class="banner">
+    <h2>Welcome to the Ultimate Marvel Database!</h2>
+    <p>Explore your favorite heroes, iconic villains, and epic storylines!</p>
+  </section>
+
+  <!-- Sections -->
+  <section id="heroes-index" class="content-section">
+    <h2>The Hero's Index</h2>
+    <p>Discover detailed profiles of Marvel’s legendary heroes, villains, and teams.</p>
+    <a href="#">Explore More</a>
+  </section>
+
+  <section id="marvel-media" class="content-section">
+    <h2>Marvel Media</h2>
+    <p>Stay updated on MCU movies, TV shows, comics, and video games!</p>
+    <a href="#">Read Articles</a>
+  </section>
+
+  <section id="events-timelines" class="content-section">
+    <h2>Events & Timelines</h2>
+    <p>Dive into Marvel’s iconic storylines, crossover events, and multiverse timelines.</p>
+    <a href="#">View Timelines</a>
+  </section>
+
+  <section id="fan-zone" class="content-section">
+    <h2>Fan Zone</h2>
+    <p>Join the community with quizzes, polls, and fan art showcases!</p>
+    <a href="#">Get Involved</a>
+  </section>
+
+  <section id="news-features" class="content-section">
+    <h2>News & Features</h2>
+    <p>Catch up on the latest Marvel updates, theories, and editorials!</p>
+    <a href="#">Read News</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2024 Marvel Heroes Hub. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
+<link rel="stylesheet" href="styles.css">
